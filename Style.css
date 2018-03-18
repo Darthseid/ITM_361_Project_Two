@@ -1,24 +1,5 @@
 
--body {
--    -webkit-animation: colorchange 24s infinite; 
--    animation: colorchange 24s infinite;
--}
-- 
-- 
--@-webkit-keyframes colorchange {
-- 
--     0%  {background: #A3FFF3;}
--    25%  {background: #B8281F;}
--    50%  {background: #C17A65;}
--    75%  {background: #DC7633;}
--    100% {background: #EB59B6;}
--}
-- 
-- 
--@keyframes colorchange {
--     0%  {background: #53FFF3;}
--    25%  {background: #48281F;}
--    50%  {background: #317A65;}
--    75%  {background: #2C7633;}
--    100% {background: #1B59B6;}
--}   
+body 
+{
+    background-color: pink;
+}
