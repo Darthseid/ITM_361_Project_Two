@@ -1,2 +1,2 @@
 # ITM361_Project_One
-Based On Project One, due Wednesday after Spring Break.
+Rough draft is due on Valentine's day. Second draft due on the final day of February.
