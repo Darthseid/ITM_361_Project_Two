@@ -11,6 +11,13 @@ h1 {
 	font-weight: 500;
 }
 
+h2 {
+	font-family: "Nanum Gothic", Times New Roman, serif;
+	font-size: 2.1 em;
+	font-style: inherit;
+	font-variant: inherit;
+	font-weight: 500;
+}
 
 #logo
 {
