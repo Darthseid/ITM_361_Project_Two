@@ -24,3 +24,11 @@ h2 {
 	width:90%;
 	margin:1em;
 }
+
+h3{
+	font-family: cursive;
+	font-size: 1.6 em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
