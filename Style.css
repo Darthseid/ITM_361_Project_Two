@@ -101,4 +101,5 @@ li a:hover
 li
 {
 margin: 1%;
+ list-style-type: square;
 }
