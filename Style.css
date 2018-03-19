@@ -99,12 +99,13 @@ ul {
 }
 
 nav li {
-    float: left;
+    float: right;
     font-family: "Volkorn SC", Verdana, sans-serif;
     	font-size:  0.9em;
 	font-style: normal;
 	font-variant: inherit;
 	font-weight: bold;
+	 text-align: center;
 }
 
 li a {
