@@ -144,3 +144,8 @@ box-shadow: 0.125em 0.125em 0.125em 0.125em #116772;
 border-radius: 0.3% 0.3% 0.3% 0.3%;
     margin-left: 40%
 }
+
+td
+{
+padding: 0.11em 0.11em 0.11em 0.91em;
+}
