@@ -115,7 +115,7 @@ li a {
     display: block;
     color: gray;
     text-align: center;
-    padding: 0.25em 18.75em 0.25em 0em;  
+  margin-right: 18.75em; 
     text-decoration: none;
 }
 
@@ -124,3 +124,24 @@ li a:hover
     background-color: rgba(25, 99, 71, 0.3);
 }
 li
+{
+margin: 1%;
+ list-style-type: square;
+}
+
+h4
+{
+    font-size: 400%;
+    line-height: 0.95em;
+    vertical-align: baseline;
+    margin-bottom: 1%;
+    margin-left: 0.5%
+}
+
+audio
+{
+transition:all 0.5s linear;
+box-shadow: 0.125em 0.125em 0.125em 0.125em #116772;
+border-radius: 0.3% 0.3% 0.3% 0.3%;
+    margin-left: 40%
+}
