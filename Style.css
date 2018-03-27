@@ -112,7 +112,7 @@ li a {
     display: block;
     color: gray;
     text-align: center;
-    padding: 4px 6px;
+    padding: 0.25em 18.75em 0.25em 0em;  
     text-decoration: none;
 }
 
