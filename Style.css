@@ -56,6 +56,25 @@ padding: 0% 0% 0% 2%;
 width:50%;
 	margin-left:1%;
 }
+
+.front
+{
+	font-size: 1.3em;
+	color: #000000;
+    animation-name: txt;
+    animation-duration: 14s;
+    animation-iteration-count: 4;
+    animation-delay: 1.0s;
+}
+
+@keyframes txt 
+{
+    0%   {background-color: #0000ff;}
+    25%  {background-color: #00ff00;}
+    50%  {background-color: #ff0000;}
+    100% {background-color: #ffffff;}
+}
+	
 h1 {
 	font-family: 'Mina', Impact, sans-serif;
 	font-size: 2.5em;
